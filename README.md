@@ -27,6 +27,27 @@ The project integrated Nomic AI for embeddings and Mistral AI as the language mo
   - Hugging Face,
   - Streamlit
 
+# Installation
+To get started with Legal_AI_Chatbot, follow these steps:
+ 1. Clone the repository:
+    ```bash
+    https://github.com/vidyanandk/Legal_AI_Chatbot.git
+    ```
+ 2. Navigate to the project directory:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+     Then,
+    ```bash
+    python -m streamlit run model.py
+    ```
+    Or
+    ```bash
+    streamlit run model.py
+    ```
+
 ## Contibuting
 Contributions are always welcome! Just raise an issue, we will discuss it.
 
